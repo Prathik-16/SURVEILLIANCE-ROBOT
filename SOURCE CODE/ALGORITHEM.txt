@@ -1,0 +1,20 @@
+Algorithm
+1)START
+2)Random (4)
+case 1:if (checkuv( ) )
+           {
+North();
+}
+case 2:if (checkuv( ) )
+  {
+          South();
+}
+case 3:if (checkuv( ) )
+{
+             East();
+}
+case 4:if (checkuv( ) )
+{
+             West();
+}
+3)Image processing
